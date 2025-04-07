@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\lecteur id\worker\MyWindowsService\obj\Debug\net9.0\MyWindowsService.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\lecteur id\worker\MyWindowsService\obj\Debug\net9.0\MyWindowsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\lecteur id\worker\MyWindowsService\obj\Debug\net9.0\MyWindowsService.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\lecteur id\worker\MyWindowsService\obj\Debug\net9.0\MyWindowsService.AssemblyInfo.cs
+C:\Users\User\Desktop\lecteur id\worker\MyWindowsService\obj\Debug\net9.0\MyWindowsService.csproj.CoreCompileInputs.cache
