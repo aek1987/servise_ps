@@ -51,13 +51,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "Microsoft.Extensions.Hosting": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
             }
           },
           "imports": [
