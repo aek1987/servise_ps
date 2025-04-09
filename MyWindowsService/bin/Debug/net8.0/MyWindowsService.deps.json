@@ -9,7 +9,8 @@
       "MyWindowsService/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Hosting": "8.0.0",
-          "Swashbuckle.AspNetCore": "6.0.7"
+          "Swashbuckle.AspNetCore": "6.0.7",
+          "DZAEIDReader.Wrapper": "1.0.0.0"
         },
         "runtime": {
           "MyWindowsService.dll": {}
@@ -266,6 +267,14 @@
       "System.Text.Json/8.0.0": {
         "dependencies": {
           "System.Text.Encodings.Web": "8.0.0"
+        }
+      },
+      "DZAEIDReader.Wrapper/1.0.0.0": {
+        "runtime": {
+          "DZAEIDReader.Wrapper.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -534,6 +543,11 @@
       "sha512": "sha512-OdrZO2WjkiEG6ajEFRABTRCi/wuXQPxeV6g8xvUJqdxMvvuCCEk86zPla8UiIQJz3durtUEbNyY/3lIhS0yZvQ==",
       "path": "system.text.json/8.0.0",
       "hashPath": "system.text.json.8.0.0.nupkg.sha512"
+    },
+    "DZAEIDReader.Wrapper/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

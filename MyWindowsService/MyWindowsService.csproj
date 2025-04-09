@@ -9,6 +9,12 @@
  <!-- Utilisation des packages adaptés pour .NET 8.0 -->
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.0.7" /> <!-- Pour Swagger, optionnel -->
+   
+   <Reference Include="DZAEIDReader.Wrapper">
+    <HintPath>lib\DZAEIDReader.Wrapper.dll</HintPath>
+    <Private>true</Private>
+  </Reference>
+  
   </ItemGroup>
 
 </Project>

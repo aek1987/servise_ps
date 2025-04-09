@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyWindowsService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+921566de29405c7f0311509028ba912fbf059177")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyWindowsService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyWindowsService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

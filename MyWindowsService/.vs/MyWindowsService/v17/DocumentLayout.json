@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\lecteur id\\worker\\MyWindowsService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3742F63A-A3D3-DC75-7E28-25EEAA081FE0}|MyWindowsService.csproj|c:\\users\\user\\desktop\\lecteur id\\worker\\mywindowsservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3742F63A-A3D3-DC75-7E28-25EEAA081FE0}|MyWindowsService.csproj|solutionrelative:worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3742F63A-A3D3-DC75-7E28-25EEAA081FE0}|MyWindowsService.csproj|c:\\users\\user\\desktop\\lecteur id\\worker\\mywindowsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3742F63A-A3D3-DC75-7E28-25EEAA081FE0}|MyWindowsService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742F63A-A3D3-DC75-7E28-25EEAA081FE0}|MyWindowsService.csproj|c:\\users\\user\\desktop\\lecteur id\\worker\\mywindowsservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742F63A-A3D3-DC75-7E28-25EEAA081FE0}|MyWindowsService.csproj|solutionrelative:worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3742F63A-A3D3-DC75-7E28-25EEAA081FE0}|MyWindowsService.csproj|c:\\users\\user\\desktop\\lecteur id\\worker\\mywindowsservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3742F63A-A3D3-DC75-7E28-25EEAA081FE0}|MyWindowsService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3742F63A-A3D3-DC75-7E28-25EEAA081FE0}|MyWindowsService.csproj|c:\\users\\user\\desktop\\lecteur id\\worker\\mywindowsservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3742F63A-A3D3-DC75-7E28-25EEAA081FE0}|MyWindowsService.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3742F63A-A3D3-DC75-7E28-25EEAA081FE0}|MyWindowsService.csproj|c:\\users\\user\\desktop\\lecteur id\\worker\\mywindowsservice\\mywindowsservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{3742F63A-A3D3-DC75-7E28-25EEAA081FE0}|MyWindowsService.csproj|solutionrelative:mywindowsservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742F63A-A3D3-DC75-7E28-25EEAA081FE0}|MyWindowsService.csproj|c:\\users\\user\\desktop\\lecteur id\\worker\\mywindowsservice\\processingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742F63A-A3D3-DC75-7E28-25EEAA081FE0}|MyWindowsService.csproj|solutionrelative:processingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742F63A-A3D3-DC75-7E28-25EEAA081FE0}|MyWindowsService.csproj|c:\\users\\user\\desktop\\lecteur id\\worker\\mywindowsservice\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742F63A-A3D3-DC75-7E28-25EEAA081FE0}|MyWindowsService.csproj|solutionrelative:personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,58 +44,68 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\User\\Desktop\\lecteur id\\worker\\MyWindowsService\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-08T10:16:17.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T11:01:36.833Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\lecteur id\\worker\\MyWindowsService\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\User\\Desktop\\lecteur id\\worker\\MyWindowsService\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-08T10:16:11.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "MyWindowsService",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\lecteur id\\worker\\MyWindowsService\\MyWindowsService.csproj",
               "RelativeDocumentMoniker": "MyWindowsService.csproj",
               "ToolTip": "C:\\Users\\User\\Desktop\\lecteur id\\worker\\MyWindowsService\\MyWindowsService.csproj",
               "RelativeToolTip": "MyWindowsService.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-08T10:16:09.051Z",
+              "WhenOpened": "2025-04-09T10:53:17.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\lecteur id\\worker\\MyWindowsService\\Personne.cs",
+              "RelativeDocumentMoniker": "Personne.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\lecteur id\\worker\\MyWindowsService\\Personne.cs",
+              "RelativeToolTip": "Personne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:04:25.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\lecteur id\\worker\\MyWindowsService\\ProcessingService.cs",
+              "RelativeDocumentMoniker": "ProcessingService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\lecteur id\\worker\\MyWindowsService\\ProcessingService.cs",
+              "RelativeToolTip": "ProcessingService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:27:56.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\lecteur id\\worker\\MyWindowsService\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\lecteur id\\worker\\MyWindowsService\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T10:14:03.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Worker.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\lecteur id\\worker\\MyWindowsService\\Worker.cs",
               "RelativeDocumentMoniker": "Worker.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\lecteur id\\worker\\MyWindowsService\\Worker.cs",
               "RelativeToolTip": "Worker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T10:13:43.828Z",
               "EditorCaption": ""
